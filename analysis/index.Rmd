@@ -11,3 +11,11 @@ editor_options:
 ## Merge-QC-UMAPS
 Merge and QC
 [link](Merge-QC-UMAPS.html)
+
+## RelativeAbundances
+Relative abundances
+[link](RelativeAbundances.html)
+
+## MarkerGenes
+Marker genes
+[link](MarkerGenes.html)
